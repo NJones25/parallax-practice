@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cabin+Condensed:wght@400;500;700&display=swap');
+
+/* font-family: 'Bad Script', cursive;
+
+font-family: 'Cabin Condensed', sans-serif; */
+
+
+h1 {
+    font-family: 'Bad Script', cursive;
+}
+
+p{
+    font-family: 'Cabin Condensed', sans-serif; 
+    font-size: 20px;
+}
+
+h1,
+p,
+button {
+    background-attachment: fixed;
+}
+.jumbotron {
+    background-image: url(https://cdn.photographycourse.net/wp-content/uploads/2014/11/Landscape-Photography-steps.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height: 100vh;
+    top: 0;
+    top: 0px;
+}
+
+
+.section-two {
+    background-image: url(https://images.unsplash.com/photo-1503424886307-b090341d25d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1752&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height: 100vh;
+}
+
+.section-three {
+    background-image: url(https://images.unsplash.com/photo-1549558549-415fe4c37b60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height: 100vh;
+} 
+
+.section-four {
+    background-image: url(https://images.unsplash.com/photo-1461301214746-1e109215d6d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height: 100vh;
+} 
+
+.section-five {
+    background-image: url(https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height: 100vh;
+}
+
+footer {
+    height: 40vh;
+}
